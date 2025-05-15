@@ -1,7 +1,7 @@
 # Expense Sharing Calculator
 
 ## Description
-The **Expense Sharing Calculator** is a Python script designed to fairly split shared expenses among a group of people. It allows users to input the total amount each person has paid, calculates individual balances, and generates an optimized payment plan to settle debts with transfers between as few people as possible. The script supports multiple number formats (e.g., `50`, `50.75`, `50,75`), provides a detailed summary report, and exports results to `.txt` and `.csv` files for easy sharing. It uses `Decimal` for precise financial calculations and includes robust input validation to handle errors gracefully.
+The **Expense Sharing Calculator** is a Python script designed to fairly split shared expenses among a group of people. It allows users to input the total amount each person has paid, calculates individual balances, and generates an optimized payment plan to settle debts with transfers between as few people as possible. 
 
 ### Features
 - **Group/Event Naming**: Customizable event or group name for reports.
@@ -21,8 +21,6 @@ Follow these steps to run and use the Expense Sharing Calculator:
      git clone https://github.com/your-username/expense-sharing-calculator.git
      ```
    - Alternatively, download the script file (`expense_sharing_calculator_version103.py`) directly.
-
-
 
 **Output**:
 - The script will display a detailed report, including:
