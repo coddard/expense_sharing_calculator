@@ -18,7 +18,7 @@ Follow these steps to run and use the Expense Sharing Calculator:
 1. **Download the Script**:
    - Clone or download the repository from GitHub:
      ```bash
-     git clone https://github.com/your-username/expense-sharing-calculator.git
+     git clone https://github.com/coddard/expense_sharing_calculator.git
      ```
    - Alternatively, download the script file (`expense_sharing_calculator_version103.py`) directly.
 
