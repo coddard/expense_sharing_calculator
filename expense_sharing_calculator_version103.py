@@ -4,7 +4,7 @@ from decimal import Decimal, getcontext, InvalidOperation
 
 getcontext().prec = 28  # Increased precision to handle larger numbers
 
-# ---- ASCII Art ve Tanımlamalar ----
+# ---- ASCII Art ve Description ----
 def print_ascii_art():
     print("""
 ░░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄▄
