@@ -1,3 +1,6 @@
+
+<img width="573" alt="Ekran Resmi 2025-05-18 15 19 58" src="https://github.com/user-attachments/assets/861f06ae-1ff6-42d8-829f-a7cf597301a4" />
+
 # Expense Sharing Calculator
 
 ## Description
