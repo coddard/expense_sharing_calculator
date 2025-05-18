@@ -1,5 +1,6 @@
 
-![ChatGPT Image 18 May 2025 15_30_39](https://github.com/user-attachments/assets/8d05f724-1ed9-47be-9a13-b0b62bbe8ef9)
+![ChatGPT Image 18 May 2025 15_30_39 (1)](https://github.com/user-attachments/assets/4dc64dad-d6e0-4a3d-aa34-c88c23b8217d)
+
 
 # Expense Sharing Calculator
 
